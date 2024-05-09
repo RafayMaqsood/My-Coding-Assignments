@@ -1,4 +1,4 @@
-These are the first official coding projects I have started working on since starting my Masters with the help of my classes and tutors, I have created this Github to track my progress and my coding experiences. The projects might not be perfect but they are the first step in the newest chapter of my life
+These are the first official coding projects I have started working on since starting my Masters with the help of my professor and tutors, I have created this Github to track my progress and my coding experiences. The projects might not be perfect but they are the first step in the newest chapter of my life
 
 Just for references ive listed the projects and the assignment tasks that were required for each project below:
 
