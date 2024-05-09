@@ -13,8 +13,7 @@ Project#4 - Write a Python program to compute and print the arrangements of Mult
 
 Project#5 - Writing a Python program to print Pascals triangle
 
-Project#6 - Write a Python program that receives two matrices, your program should them verify if those two matrices are inverses of each other
-of the other
+Project#6 - Write a Python program that receives two matrices, your program should then verify if those two matrices are inverses of each other
 
 Project#7 - Write a Python program that receives information about a lottery game based
 on the player guessing k numbers out of n possible numbers.
